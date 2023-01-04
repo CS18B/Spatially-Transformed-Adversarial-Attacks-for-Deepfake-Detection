@@ -7,9 +7,10 @@ The DFFD dataset is comprised of multiple publically available datasets and imag
 
 ![image](https://user-images.githubusercontent.com/44827203/210598433-26484176-c189-4fb3-83c2-95e56998d238.png)
 ## Model
-XnceptionNet, MesoNet, MesoInceptionNet
+XnceptionNet(99.7 acc), MesoNet(95.3 acc), MesoInceptionNet(93.2 acc)
 ## Attack method
 FGSM, PGD, stAdv
+
 An example of stAdv generated adversarial example
 
 ![image](https://user-images.githubusercontent.com/44827203/210599137-984bba46-4ab2-442b-be64-44789b9baec7.png)
